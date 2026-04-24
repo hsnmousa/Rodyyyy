@@ -38,7 +38,7 @@ function startTimer() {
     let days = Math.floor(diff / (1000 * 60 * 60 * 24));
 
     document.getElementById("loveTimer").innerText =
-      "The Most beautyful: " + days + " Days ❤️";
+      "The Most beautiful: " + days + " Days ❤️";
   }, 1000);
 }
 
